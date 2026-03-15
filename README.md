@@ -1,6 +1,6 @@
 # Qiskit-v2.X-Certification-Practice-Questions
 
-This repository contains practice material to help you prepare for the IBM Qiskit / IBM Quantum Developer certification exam. It focuses on hands‑on Qiskit usage and exam‑style conceptual questions.
+This repository contains practice material to help you prepare for the IBM Qiskit Quantum Developer certification exam. It focuses on hands‑on Qiskit usage and exam‑style conceptual questions.
 
 **What’s Inside**
 
